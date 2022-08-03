@@ -13,7 +13,9 @@ I used an ERD (Entity Relationship Diagram) to help with highlighting the relati
 
 ## Results of Data
 Deliverable 1: The Number of Retiring Employees by Title
+
 ![Retirement_Titles](https://user-images.githubusercontent.com/108022219/182717126-bded8352-8c9a-4e1e-af54-372ad59ed2c2.png)
+
 These results show that 133,776 employees that could retire and also provides their title. 
 See the breakdown by title below:
 32,452 Staff
@@ -24,7 +26,9 @@ See the breakdown by title below:
 1,761 Assistant Engineer
 
 Deliverable 2: The Employees Eligible for the Mentorship Program
+
 ![Mentorship_Eligibilty](https://user-images.githubusercontent.com/108022219/182719390-d6064eb6-8f50-4445-8f7a-2c5d10496e27.png)
+
 There were a total of 1,940 employees eligible for the mentorship program. 
 
 ##Summary 
