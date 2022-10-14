@@ -31,5 +31,5 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
 
 There were a total of 1,940 employees eligible for the mentorship program. 
 
-##Summary 
+## Summary 
 After analyzing the data to provide for Bobby to present to his managers, I believe this information will help with forcasting how many retirees to prepare for. They will also be able to predict and plan a hiring campaign from this data to fill the turnover from retirements. 
